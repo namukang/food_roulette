@@ -1,0 +1,281 @@
+[02-Oct-2011 02:00:04] PHP Warning:  require_once(Ordrin/Ordrin.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home4/dskangco/public_html/textfood/search_engine.php on line 16
+[02-Oct-2011 02:00:04] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'Ordrin/Ordrin.php' (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home4/dskangco/public_html/textfood/search_engine.php on line 16
+[02-Oct-2011 02:02:54] PHP Warning:  require_once(Ordrin/Ordrin.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home4/dskangco/public_html/textfood/search_engine.php on line 16
+[02-Oct-2011 02:02:54] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'Ordrin/Ordrin.php' (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home4/dskangco/public_html/textfood/search_engine.php on line 16
+[02-Oct-2011 02:04:48] PHP Warning:  require_once(Ordrin/Ordrin.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home4/dskangco/public_html/textfood/search_engine.php on line 16
+[02-Oct-2011 02:04:48] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'Ordrin/Ordrin.php' (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home4/dskangco/public_html/textfood/search_engine.php on line 16
+[02-Oct-2011 02:04:54] PHP Warning:  require_once(Ordrin/Ordrin.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home4/dskangco/public_html/textfood/search_engine.php on line 16
+[02-Oct-2011 02:04:54] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'Ordrin/Ordrin.php' (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home4/dskangco/public_html/textfood/search_engine.php on line 16
+[02-Oct-2011 02:05:31] PHP Warning:  require_once(Ordrin/Ordrin.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home4/dskangco/public_html/textfood/search_engine.php on line 16
+[02-Oct-2011 02:05:31] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'Ordrin/Ordrin.php' (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home4/dskangco/public_html/textfood/search_engine.php on line 16
+[02-Oct-2011 02:09:43] PHP Warning:  require_once(Ordrin/Ordrin.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home4/dskangco/public_html/textfood/search_engine.php on line 16
+[02-Oct-2011 02:09:43] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'Ordrin/Ordrin.php' (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home4/dskangco/public_html/textfood/search_engine.php on line 16
+[02-Oct-2011 02:09:55] PHP Warning:  require_once(Ordrin/Ordrin.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home4/dskangco/public_html/textfood/search_engine.php on line 16
+[02-Oct-2011 02:09:55] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'Ordrin/Ordrin.php' (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home4/dskangco/public_html/textfood/search_engine.php on line 16
+[02-Oct-2011 02:15:49] PHP Warning:  require_once(Ordrin/Ordrin.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home4/dskangco/public_html/textfood/search_engine.php on line 16
+[02-Oct-2011 02:15:49] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'Ordrin/Ordrin.php' (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home4/dskangco/public_html/textfood/search_engine.php on line 16
+[02-Oct-2011 02:15:54] PHP Warning:  require_once(Ordrin/Ordrin.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home4/dskangco/public_html/textfood/search_engine.php on line 16
+[02-Oct-2011 02:15:54] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'Ordrin/Ordrin.php' (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home4/dskangco/public_html/textfood/search_engine.php on line 16
+[02-Oct-2011 02:16:12] PHP Warning:  require_once(Ordrin/Ordrin.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home4/dskangco/public_html/textfood/search_engine.php on line 16
+[02-Oct-2011 02:16:12] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'Ordrin/Ordrin.php' (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home4/dskangco/public_html/textfood/search_engine.php on line 16
+[02-Oct-2011 02:18:37] PHP Warning:  require_once(Ordrin/Ordrin.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home4/dskangco/public_html/textfood/search_engine.php on line 17
+[02-Oct-2011 02:18:37] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'Ordrin/Ordrin.php' (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home4/dskangco/public_html/textfood/search_engine.php on line 17
+[02-Oct-2011 02:18:41] PHP Warning:  require_once(Ordrin/Ordrin.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home4/dskangco/public_html/textfood/search_engine.php on line 17
+[02-Oct-2011 02:18:41] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'Ordrin/Ordrin.php' (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home4/dskangco/public_html/textfood/search_engine.php on line 17
+[02-Oct-2011 02:20:33] PHP Warning:  require_once(Ordrin/Ordrin.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home4/dskangco/public_html/textfood/search_engine.php on line 2
+[02-Oct-2011 02:20:33] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'Ordrin/Ordrin.php' (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home4/dskangco/public_html/textfood/search_engine.php on line 2
+[02-Oct-2011 02:26:34] PHP Warning:  require_once(Ordrin/Ordrin.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home4/dskangco/public_html/textfood/search_engine.php on line 2
+[02-Oct-2011 02:26:34] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'Ordrin/Ordrin.php' (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home4/dskangco/public_html/textfood/search_engine.php on line 2
+[02-Oct-2011 02:28:13] PHP Warning:  require_once(Ordrin/Ordrin.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home4/dskangco/public_html/textfood/search_engine.php on line 2
+[02-Oct-2011 02:28:13] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'Ordrin/Ordrin.php' (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home4/dskangco/public_html/textfood/search_engine.php on line 2
+[02-Oct-2011 02:29:20] PHP Warning:  require_once(Ordrin/Ordrin.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home4/dskangco/public_html/textfood/search_engine.php on line 2
+[02-Oct-2011 02:29:20] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'Ordrin/Ordrin.php' (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home4/dskangco/public_html/textfood/search_engine.php on line 2
+[02-Oct-2011 02:30:46] PHP Warning:  require_once(Ordrin/Ordrin.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home4/dskangco/public_html/textfood/search_engine.php on line 2
+[02-Oct-2011 02:30:46] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'Ordrin/Ordrin.php' (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home4/dskangco/public_html/textfood/search_engine.php on line 2
+[02-Oct-2011 02:31:18] PHP Warning:  require_once(Ordrin/Ordrin.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home4/dskangco/public_html/textfood/search_engine.php on line 2
+[02-Oct-2011 02:31:18] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'Ordrin/Ordrin.php' (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home4/dskangco/public_html/textfood/search_engine.php on line 2
+[02-Oct-2011 02:33:33] PHP Warning:  require_once(TextFood/Ordrin.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home4/dskangco/public_html/textfood/search_engine.php on line 2
+[02-Oct-2011 02:33:33] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'TextFood/Ordrin.php' (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home4/dskangco/public_html/textfood/search_engine.php on line 2
+[02-Oct-2011 02:34:20] PHP Warning:  require_once(TextFood/Ordrin/Ordrin.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home4/dskangco/public_html/textfood/search_engine.php on line 2
+[02-Oct-2011 02:34:20] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'TextFood/Ordrin/Ordrin.php' (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home4/dskangco/public_html/textfood/search_engine.php on line 2
+[02-Oct-2011 02:36:51] PHP Warning:  require_once(TextFood/Ordrin/Ordrin.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home4/dskangco/public_html/textfood/search_engine.php on line 2
+[02-Oct-2011 02:36:51] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'TextFood/Ordrin/Ordrin.php' (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home4/dskangco/public_html/textfood/search_engine.php on line 2
+[02-Oct-2011 02:37:51] PHP Warning:  require_once(textfood/Ordrin/Ordrin.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home4/dskangco/public_html/textfood/search_engine.php on line 2
+[02-Oct-2011 02:37:51] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'textfood/Ordrin/Ordrin.php' (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home4/dskangco/public_html/textfood/search_engine.php on line 2
+[02-Oct-2011 02:40:26] PHP Warning:  require_once(textfood/Ordrin/Ordrin.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home4/dskangco/public_html/textfood/search_engine.php on line 2
+[02-Oct-2011 02:40:26] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'textfood/Ordrin/Ordrin.php' (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home4/dskangco/public_html/textfood/search_engine.php on line 2
+[02-Oct-2011 02:42:50] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home4/dskangco/public_html/textfood/Ordrin/Ordrin.php:16) in /home4/dskangco/public_html/textfood/search_engine.php on line 4
+[02-Oct-2011 02:42:50] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home4/dskangco/public_html/textfood/Ordrin/Ordrin.php:16) in /home4/dskangco/public_html/textfood/search_engine.php on line 4
+[02-Oct-2011 02:46:02] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home4/dskangco/public_html/textfood/Ordrin/Ordrin.php:16) in /home4/dskangco/public_html/textfood/search_engine.php on line 4
+[02-Oct-2011 02:46:02] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home4/dskangco/public_html/textfood/Ordrin/Ordrin.php:16) in /home4/dskangco/public_html/textfood/search_engine.php on line 4
+[02-Oct-2011 02:46:15] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home4/dskangco/public_html/textfood/Ordrin/Ordrin.php:16) in /home4/dskangco/public_html/textfood/search_engine.php on line 4
+[02-Oct-2011 02:46:15] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home4/dskangco/public_html/textfood/Ordrin/Ordrin.php:16) in /home4/dskangco/public_html/textfood/search_engine.php on line 4
+[02-Oct-2011 02:46:30] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home4/dskangco/public_html/textfood/Ordrin/Ordrin.php:16) in /home4/dskangco/public_html/textfood/search_engine.php on line 4
+[02-Oct-2011 02:46:30] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home4/dskangco/public_html/textfood/Ordrin/Ordrin.php:16) in /home4/dskangco/public_html/textfood/search_engine.php on line 4
+[02-Oct-2011 02:47:37] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home4/dskangco/public_html/textfood/Ordrin/Ordrin.php:16) in /home4/dskangco/public_html/textfood/search_engine.php on line 4
+[02-Oct-2011 02:47:37] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home4/dskangco/public_html/textfood/Ordrin/Ordrin.php:16) in /home4/dskangco/public_html/textfood/search_engine.php on line 4
+[02-Oct-2011 02:47:44] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home4/dskangco/public_html/textfood/Ordrin/Ordrin.php:16) in /home4/dskangco/public_html/textfood/search_engine.php on line 4
+[02-Oct-2011 02:47:44] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home4/dskangco/public_html/textfood/Ordrin/Ordrin.php:16) in /home4/dskangco/public_html/textfood/search_engine.php on line 4
+[02-Oct-2011 02:48:09] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home4/dskangco/public_html/textfood/Ordrin/Ordrin.php:16) in /home4/dskangco/public_html/textfood/search_engine.php on line 4
+[02-Oct-2011 02:48:09] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home4/dskangco/public_html/textfood/Ordrin/Ordrin.php:16) in /home4/dskangco/public_html/textfood/search_engine.php on line 4
+[02-Oct-2011 02:51:44] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home4/dskangco/public_html/textfood/Ordrin/Ordrin.php:16) in /home4/dskangco/public_html/textfood/search_engine.php on line 4
+[02-Oct-2011 02:54:48] PHP Warning:  Missing argument 1 for dT::__construct(), called in /home4/dskangco/public_html/textfood/search_engine.php on line 18 and defined in /home4/dskangco/public_html/textfood/Ordrin/dT.php on line 9
+[02-Oct-2011 02:56:20] PHP Warning:  Missing argument 1 for dT::__construct(), called in /home4/dskangco/public_html/textfood/search_engine.php on line 18 and defined in /home4/dskangco/public_html/textfood/Ordrin/dT.php on line 9
+[02-Oct-2011 02:57:41] PHP Warning:  Missing argument 1 for dT::__construct(), called in /home4/dskangco/public_html/textfood/search_engine.php on line 18 and defined in /home4/dskangco/public_html/textfood/Ordrin/dT.php on line 9
+[02-Oct-2011 02:57:44] PHP Warning:  Missing argument 1 for dT::__construct(), called in /home4/dskangco/public_html/textfood/search_engine.php on line 18 and defined in /home4/dskangco/public_html/textfood/Ordrin/dT.php on line 9
+[02-Oct-2011 03:01:14] PHP Warning:  Missing argument 1 for dT::__construct(), called in /home4/dskangco/public_html/textfood/search_engine.php on line 18 and defined in /home4/dskangco/public_html/textfood/Ordrin/dT.php on line 9
+[02-Oct-2011 03:02:02] PHP Warning:  Missing argument 1 for dT::__construct(), called in /home4/dskangco/public_html/textfood/search_engine.php on line 18 and defined in /home4/dskangco/public_html/textfood/Ordrin/dT.php on line 9
+[02-Oct-2011 03:09:04] PHP Fatal error:  Uncaught exception 'Exception' with message 'Errors encountered: Restaurant DeliveryCheck - Validation - restaurant ID (invalid, must be numeric) we got ()' in /home4/dskangco/public_html/textfood/Ordrin/Ordrin.php:147
+Stack trace:
+#0 /home4/dskangco/public_html/textfood/Ordrin/Restaurant.php(78): Ordrin->_request(Array)
+#1 /home4/dskangco/public_html/textfood/search_engine.php(99): Restaurant->details(NULL)
+#2 /home4/dskangco/public_html/textfood/search_engine.php(130): get_menu_by_restaurant_id()
+#3 /home4/dskangco/public_html/textfood/search_engine.php(23): main()
+#4 {main}
+  thrown in /home4/dskangco/public_html/textfood/Ordrin/Ordrin.php on line 147
+[02-Oct-2011 03:09:52] PHP Fatal error:  Uncaught exception 'Exception' with message 'Errors encountered: Restaurant DeliveryCheck - Validation - restaurant ID (invalid, must be numeric) we got ()' in /home4/dskangco/public_html/textfood/Ordrin/Ordrin.php:147
+Stack trace:
+#0 /home4/dskangco/public_html/textfood/Ordrin/Restaurant.php(78): Ordrin->_request(Array)
+#1 /home4/dskangco/public_html/textfood/search_engine.php(99): Restaurant->details(NULL)
+#2 /home4/dskangco/public_html/textfood/search_engine.php(130): get_menu_by_restaurant_id()
+#3 /home4/dskangco/public_html/textfood/search_engine.php(23): main()
+#4 {main}
+  thrown in /home4/dskangco/public_html/textfood/Ordrin/Ordrin.php on line 147
+[02-Oct-2011 03:10:42] PHP Fatal error:  Uncaught exception 'Exception' with message 'Errors encountered: Restaurant DeliveryCheck - Validation - restaurant ID (invalid, must be numeric) we got ()' in /home4/dskangco/public_html/textfood/Ordrin/Ordrin.php:147
+Stack trace:
+#0 /home4/dskangco/public_html/textfood/Ordrin/Restaurant.php(78): Ordrin->_request(Array)
+#1 /home4/dskangco/public_html/textfood/search_engine.php(99): Restaurant->details(NULL)
+#2 /home4/dskangco/public_html/textfood/search_engine.php(130): get_menu_by_restaurant_id()
+#3 /home4/dskangco/public_html/textfood/search_engine.php(23): main()
+#4 {main}
+  thrown in /home4/dskangco/public_html/textfood/Ordrin/Ordrin.php on line 147
+[02-Oct-2011 03:11:16] PHP Fatal error:  Uncaught exception 'Exception' with message 'Errors encountered: Restaurant DeliveryCheck - Validation - restaurant ID (invalid, must be numeric) we got ()' in /home4/dskangco/public_html/textfood/Ordrin/Ordrin.php:147
+Stack trace:
+#0 /home4/dskangco/public_html/textfood/Ordrin/Restaurant.php(78): Ordrin->_request(Array)
+#1 /home4/dskangco/public_html/textfood/search_engine.php(99): Restaurant->details(NULL)
+#2 /home4/dskangco/public_html/textfood/search_engine.php(130): get_menu_by_restaurant_id()
+#3 /home4/dskangco/public_html/textfood/search_engine.php(23): main()
+#4 {main}
+  thrown in /home4/dskangco/public_html/textfood/Ordrin/Ordrin.php on line 147
+[02-Oct-2011 03:19:13] PHP Fatal error:  Uncaught exception 'Exception' with message 'Errors encountered: Restaurant DeliveryCheck - Validation - restaurant ID (invalid, must be numeric) we got ()' in /home4/dskangco/public_html/textfood/Ordrin/Ordrin.php:147
+Stack trace:
+#0 /home4/dskangco/public_html/textfood/Ordrin/Restaurant.php(78): Ordrin->_request(Array)
+#1 /home4/dskangco/public_html/textfood/search_engine.php(99): Restaurant->details(NULL)
+#2 /home4/dskangco/public_html/textfood/search_engine.php(130): get_menu_by_restaurant_id()
+#3 /home4/dskangco/public_html/textfood/search_engine.php(23): main()
+#4 {main}
+  thrown in /home4/dskangco/public_html/textfood/Ordrin/Ordrin.php on line 147
+[02-Oct-2011 03:19:24] PHP Fatal error:  Uncaught exception 'Exception' with message 'Errors encountered: Restaurant DeliveryCheck - Validation - restaurant ID (invalid, must be numeric) we got ()' in /home4/dskangco/public_html/textfood/Ordrin/Ordrin.php:147
+Stack trace:
+#0 /home4/dskangco/public_html/textfood/Ordrin/Restaurant.php(78): Ordrin->_request(Array)
+#1 /home4/dskangco/public_html/textfood/search_engine.php(99): Restaurant->details(NULL)
+#2 /home4/dskangco/public_html/textfood/search_engine.php(130): get_menu_by_restaurant_id()
+#3 /home4/dskangco/public_html/textfood/search_engine.php(23): main()
+#4 {main}
+  thrown in /home4/dskangco/public_html/textfood/Ordrin/Ordrin.php on line 147
+[02-Oct-2011 03:19:28] PHP Fatal error:  Uncaught exception 'Exception' with message 'Errors encountered: Restaurant DeliveryCheck - Validation - restaurant ID (invalid, must be numeric) we got ()' in /home4/dskangco/public_html/textfood/Ordrin/Ordrin.php:147
+Stack trace:
+#0 /home4/dskangco/public_html/textfood/Ordrin/Restaurant.php(78): Ordrin->_request(Array)
+#1 /home4/dskangco/public_html/textfood/search_engine.php(99): Restaurant->details(NULL)
+#2 /home4/dskangco/public_html/textfood/search_engine.php(130): get_menu_by_restaurant_id()
+#3 /home4/dskangco/public_html/textfood/search_engine.php(23): main()
+#4 {main}
+  thrown in /home4/dskangco/public_html/textfood/Ordrin/Ordrin.php on line 147
+[02-Oct-2011 03:19:34] PHP Fatal error:  Uncaught exception 'Exception' with message 'Errors encountered: Restaurant DeliveryCheck - Validation - restaurant ID (invalid, must be numeric) we got ()' in /home4/dskangco/public_html/textfood/Ordrin/Ordrin.php:147
+Stack trace:
+#0 /home4/dskangco/public_html/textfood/Ordrin/Restaurant.php(78): Ordrin->_request(Array)
+#1 /home4/dskangco/public_html/textfood/search_engine.php(99): Restaurant->details(NULL)
+#2 /home4/dskangco/public_html/textfood/search_engine.php(130): get_menu_by_restaurant_id()
+#3 /home4/dskangco/public_html/textfood/search_engine.php(23): main()
+#4 {main}
+  thrown in /home4/dskangco/public_html/textfood/Ordrin/Ordrin.php on line 147
+[02-Oct-2011 03:20:21] PHP Fatal error:  Uncaught exception 'Exception' with message 'Errors encountered: Restaurant DeliveryCheck - Validation - restaurant ID (invalid, must be numeric) we got ()' in /home4/dskangco/public_html/textfood/Ordrin/Ordrin.php:147
+Stack trace:
+#0 /home4/dskangco/public_html/textfood/Ordrin/Restaurant.php(78): Ordrin->_request(Array)
+#1 /home4/dskangco/public_html/textfood/search_engine.php(99): Restaurant->details(NULL)
+#2 /home4/dskangco/public_html/textfood/search_engine.php(130): get_menu_by_restaurant_id()
+#3 /home4/dskangco/public_html/textfood/search_engine.php(23): main()
+#4 {main}
+  thrown in /home4/dskangco/public_html/textfood/Ordrin/Ordrin.php on line 147
+[02-Oct-2011 03:20:23] PHP Fatal error:  Uncaught exception 'Exception' with message 'Errors encountered: Restaurant DeliveryCheck - Validation - restaurant ID (invalid, must be numeric) we got ()' in /home4/dskangco/public_html/textfood/Ordrin/Ordrin.php:147
+Stack trace:
+#0 /home4/dskangco/public_html/textfood/Ordrin/Restaurant.php(78): Ordrin->_request(Array)
+#1 /home4/dskangco/public_html/textfood/search_engine.php(99): Restaurant->details(NULL)
+#2 /home4/dskangco/public_html/textfood/search_engine.php(130): get_menu_by_restaurant_id()
+#3 /home4/dskangco/public_html/textfood/search_engine.php(23): main()
+#4 {main}
+  thrown in /home4/dskangco/public_html/textfood/Ordrin/Ordrin.php on line 147
+[02-Oct-2011 03:20:25] PHP Fatal error:  Uncaught exception 'Exception' with message 'Errors encountered: Restaurant DeliveryCheck - Validation - restaurant ID (invalid, must be numeric) we got ()' in /home4/dskangco/public_html/textfood/Ordrin/Ordrin.php:147
+Stack trace:
+#0 /home4/dskangco/public_html/textfood/Ordrin/Restaurant.php(78): Ordrin->_request(Array)
+#1 /home4/dskangco/public_html/textfood/search_engine.php(99): Restaurant->details(NULL)
+#2 /home4/dskangco/public_html/textfood/search_engine.php(130): get_menu_by_restaurant_id()
+#3 /home4/dskangco/public_html/textfood/search_engine.php(23): main()
+#4 {main}
+  thrown in /home4/dskangco/public_html/textfood/Ordrin/Ordrin.php on line 147
+[02-Oct-2011 03:27:42] PHP Fatal error:  Uncaught exception 'Exception' with message 'Errors encountered: Restaurant DeliveryCheck - Validation - restaurant ID (invalid, must be numeric) we got ()' in /home4/dskangco/public_html/textfood/Ordrin/Ordrin.php:147
+Stack trace:
+#0 /home4/dskangco/public_html/textfood/Ordrin/Restaurant.php(78): Ordrin->_request(Array)
+#1 /home4/dskangco/public_html/textfood/search_engine.php(99): Restaurant->details(NULL)
+#2 /home4/dskangco/public_html/textfood/search_engine.php(130): get_menu_by_restaurant_id()
+#3 /home4/dskangco/public_html/textfood/search_engine.php(23): main()
+#4 {main}
+  thrown in /home4/dskangco/public_html/textfood/Ordrin/Ordrin.php on line 147
+[02-Oct-2011 03:52:55] PHP Warning:  Invalid argument supplied for foreach() in /home4/dskangco/public_html/textfood/search_engine.php on line 220
+[02-Oct-2011 03:52:55] PHP Fatal error:  Call to undefined function  dump_name() in /home4/dskangco/public_html/textfood/search_engine.php on line 241
+[02-Oct-2011 03:54:20] PHP Warning:  Invalid argument supplied for foreach() in /home4/dskangco/public_html/textfood/search_engine.php on line 220
+[02-Oct-2011 03:54:20] PHP Fatal error:  Call to undefined function  dump_name() in /home4/dskangco/public_html/textfood/search_engine.php on line 241
+[02-Oct-2011 03:57:30] PHP Warning:  Invalid argument supplied for foreach() in /home4/dskangco/public_html/textfood/search_engine.php on line 220
+[02-Oct-2011 03:57:30] PHP Warning:  Invalid argument supplied for foreach() in /home4/dskangco/public_html/textfood/search_engine.php on line 232
+[02-Oct-2011 03:57:30] PHP Warning:  Invalid argument supplied for foreach() in /home4/dskangco/public_html/textfood/search_engine.php on line 220
+[02-Oct-2011 03:58:31] PHP Warning:  Invalid argument supplied for foreach() in /home4/dskangco/public_html/textfood/search_engine.php on line 220
+[02-Oct-2011 03:58:31] PHP Warning:  Invalid argument supplied for foreach() in /home4/dskangco/public_html/textfood/search_engine.php on line 232
+[02-Oct-2011 03:58:31] PHP Warning:  Invalid argument supplied for foreach() in /home4/dskangco/public_html/textfood/search_engine.php on line 220
+[02-Oct-2011 03:59:47] PHP Fatal error:  Call to undefined function  dump_name() in /home4/dskangco/public_html/textfood/search_engine.php on line 241
+[02-Oct-2011 03:59:51] PHP Fatal error:  Call to undefined function  dump_name() in /home4/dskangco/public_html/textfood/search_engine.php on line 241
+[02-Oct-2011 04:00:23] PHP Fatal error:  Call to undefined function  dump_name() in /home4/dskangco/public_html/textfood/search_engine.php on line 241
+[02-Oct-2011 04:01:21] PHP Fatal error:  Call to undefined function  dump_name() in /home4/dskangco/public_html/textfood/search_engine.php on line 241
+[02-Oct-2011 04:01:24] PHP Fatal error:  Call to undefined function  dump_name() in /home4/dskangco/public_html/textfood/search_engine.php on line 241
+[02-Oct-2011 04:02:08] PHP Warning:  Invalid argument supplied for foreach() in /home4/dskangco/public_html/textfood/search_engine.php on line 220
+[02-Oct-2011 04:02:08] PHP Warning:  Invalid argument supplied for foreach() in /home4/dskangco/public_html/textfood/search_engine.php on line 232
+[02-Oct-2011 04:02:08] PHP Warning:  Invalid argument supplied for foreach() in /home4/dskangco/public_html/textfood/search_engine.php on line 220
+[02-Oct-2011 04:02:16] PHP Fatal error:  Call to undefined function  dump_name() in /home4/dskangco/public_html/textfood/search_engine.php on line 241
+[02-Oct-2011 04:02:41] PHP Fatal error:  Call to undefined function  dump_name() in /home4/dskangco/public_html/textfood/search_engine.php on line 241
+[02-Oct-2011 04:02:52] PHP Fatal error:  Call to undefined function  dump_name() in /home4/dskangco/public_html/textfood/search_engine.php on line 241
+[02-Oct-2011 04:03:10] PHP Fatal error:  Call to undefined function  dump_name() in /home4/dskangco/public_html/textfood/search_engine.php on line 241
+[02-Oct-2011 04:05:14] PHP Fatal error:  Call to undefined function  dump_name() in /home4/dskangco/public_html/textfood/search_engine.php on line 241
+[02-Oct-2011 04:05:21] PHP Warning:  Invalid argument supplied for foreach() in /home4/dskangco/public_html/textfood/search_engine.php on line 220
+[02-Oct-2011 04:05:21] PHP Warning:  Invalid argument supplied for foreach() in /home4/dskangco/public_html/textfood/search_engine.php on line 232
+[02-Oct-2011 04:05:21] PHP Warning:  Invalid argument supplied for foreach() in /home4/dskangco/public_html/textfood/search_engine.php on line 220
+[02-Oct-2011 04:05:23] PHP Fatal error:  Call to undefined function  dump_name() in /home4/dskangco/public_html/textfood/search_engine.php on line 241
+[02-Oct-2011 04:05:27] PHP Fatal error:  Call to undefined function  dump_name() in /home4/dskangco/public_html/textfood/search_engine.php on line 241
+[02-Oct-2011 04:08:42] PHP Warning:  Invalid argument supplied for foreach() in /home4/dskangco/public_html/textfood/search_engine.php on line 220
+[02-Oct-2011 04:08:42] PHP Warning:  Invalid argument supplied for foreach() in /home4/dskangco/public_html/textfood/search_engine.php on line 232
+[02-Oct-2011 04:08:42] PHP Warning:  Invalid argument supplied for foreach() in /home4/dskangco/public_html/textfood/search_engine.php on line 220
+[02-Oct-2011 04:13:14] PHP Fatal error:  Call to undefined function  dump_name() in /home4/dskangco/public_html/textfood/search_engine.php on line 241
+[02-Oct-2011 04:15:00] PHP Warning:  Invalid argument supplied for foreach() in /home4/dskangco/public_html/textfood/search_engine.php on line 220
+[02-Oct-2011 04:15:00] PHP Warning:  Invalid argument supplied for foreach() in /home4/dskangco/public_html/textfood/search_engine.php on line 232
+[02-Oct-2011 04:15:00] PHP Warning:  Invalid argument supplied for foreach() in /home4/dskangco/public_html/textfood/search_engine.php on line 220
+[02-Oct-2011 04:24:30] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home4/dskangco/public_html/textfood/search_engine.php on line 282
+[02-Oct-2011 04:27:53] PHP Warning:  Invalid argument supplied for foreach() in /home4/dskangco/public_html/textfood/search_engine.php on line 220
+[02-Oct-2011 04:27:53] PHP Warning:  Invalid argument supplied for foreach() in /home4/dskangco/public_html/textfood/search_engine.php on line 232
+[02-Oct-2011 04:27:53] PHP Warning:  Invalid argument supplied for foreach() in /home4/dskangco/public_html/textfood/search_engine.php on line 220
+[02-Oct-2011 04:58:22] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home4/dskangco/public_html/textfood/search_engine.php on line 306
+[02-Oct-2011 04:59:17] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home4/dskangco/public_html/textfood/search_engine.php on line 306
+[02-Oct-2011 04:59:19] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home4/dskangco/public_html/textfood/search_engine.php on line 306
+[02-Oct-2011 06:00:05] PHP Fatal error:  Cannot redeclare get_restaurant_by_zip_code_and_type() (previously declared in /home4/dskangco/public_html/textfood/search_engine.php:61) in /home4/dskangco/public_html/textfood/search_engine.php on line 117
+[02-Oct-2011 06:03:26] PHP Fatal error:  Cannot redeclare get_restaurant_by_zip_code_and_type() (previously declared in /home4/dskangco/public_html/textfood/search_engine.php:61) in /home4/dskangco/public_html/textfood/search_engine.php on line 117
+[02-Oct-2011 06:04:22] PHP Fatal error:  Cannot redeclare get_restaurant_by_zip_code_and_type() (previously declared in /home4/dskangco/public_html/textfood/search_engine.php:61) in /home4/dskangco/public_html/textfood/search_engine.php on line 117
+[02-Oct-2011 06:04:53] PHP Fatal error:  Cannot redeclare get_restaurant_by_zip_code_and_type() (previously declared in /home4/dskangco/public_html/textfood/search_engine.php:61) in /home4/dskangco/public_html/textfood/search_engine.php on line 117
+[02-Oct-2011 06:04:54] PHP Fatal error:  Cannot redeclare get_restaurant_by_zip_code_and_type() (previously declared in /home4/dskangco/public_html/textfood/search_engine.php:61) in /home4/dskangco/public_html/textfood/search_engine.php on line 117
+[02-Oct-2011 06:17:13] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home4/dskangco/public_html/textfood/search_engine.php on line 289
+[02-Oct-2011 06:38:31] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home4/dskangco/public_html/textfood/search_engine.php on line 146
+[02-Oct-2011 06:55:27] PHP Warning:  Invalid argument supplied for foreach() in /home4/dskangco/public_html/textfood/search_engine.php on line 218
+[02-Oct-2011 06:55:41] PHP Warning:  Invalid argument supplied for foreach() in /home4/dskangco/public_html/textfood/search_engine.php on line 218
+[02-Oct-2011 07:02:28] PHP Warning:  Invalid argument supplied for foreach() in /home4/dskangco/public_html/textfood/search_engine.php on line 218
+[02-Oct-2011 07:04:39] PHP Warning:  Invalid argument supplied for foreach() in /home4/dskangco/public_html/textfood/search_engine.php on line 218
+[02-Oct-2011 07:05:04] PHP Warning:  Invalid argument supplied for foreach() in /home4/dskangco/public_html/textfood/search_engine.php on line 218
+[02-Oct-2011 07:09:14] PHP Warning:  Invalid argument supplied for foreach() in /home4/dskangco/public_html/textfood/search_engine.php on line 218
+[02-Oct-2011 07:10:04] PHP Warning:  Invalid argument supplied for foreach() in /home4/dskangco/public_html/textfood/search_engine.php on line 218
+[02-Oct-2011 07:11:35] PHP Warning:  Invalid argument supplied for foreach() in /home4/dskangco/public_html/textfood/search_engine.php on line 218
+[02-Oct-2011 07:15:25] PHP Warning:  Invalid argument supplied for foreach() in /home4/dskangco/public_html/textfood/search_engine.php on line 218
+[02-Oct-2011 07:16:29] PHP Warning:  Invalid argument supplied for foreach() in /home4/dskangco/public_html/textfood/search_engine.php on line 218
+[02-Oct-2011 07:16:44] PHP Warning:  Invalid argument supplied for foreach() in /home4/dskangco/public_html/textfood/search_engine.php on line 218
+[02-Oct-2011 07:19:45] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home4/dskangco/public_html/textfood/search_engine.php on line 307
+[02-Oct-2011 07:19:51] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home4/dskangco/public_html/textfood/search_engine.php on line 307
+[02-Oct-2011 07:23:32] PHP Fatal error:  Uncaught exception 'Exception' with message 'Errors encountered: user API - valid email and password required to access user API' in /home4/dskangco/public_html/textfood/Ordrin/Ordrin.php:147
+Stack trace:
+#0 /home4/dskangco/public_html/textfood/Ordrin/User.php(45): Ordrin->_request(Array)
+#1 /home4/dskangco/public_html/textfood/search_engine.php(36): User->getAddress('shawn')
+#2 /home4/dskangco/public_html/textfood/search_engine.php(28): orderASAP('323', '400652', '5', '5')
+#3 {main}
+  thrown in /home4/dskangco/public_html/textfood/Ordrin/Ordrin.php on line 147
+[02-Oct-2011 07:24:23] PHP Fatal error:  Uncaught exception 'Exception' with message 'Errors encountered: user API - valid email and password required to access user API' in /home4/dskangco/public_html/textfood/Ordrin/Ordrin.php:147
+Stack trace:
+#0 /home4/dskangco/public_html/textfood/Ordrin/User.php(45): Ordrin->_request(Array)
+#1 /home4/dskangco/public_html/textfood/search_engine.php(36): User->getAddress('shawn')
+#2 /home4/dskangco/public_html/textfood/search_engine.php(28): orderASAP('323', '400652', '5', '5')
+#3 {main}
+  thrown in /home4/dskangco/public_html/textfood/Ordrin/Ordrin.php on line 147
+[02-Oct-2011 07:24:47] PHP Fatal error:  Uncaught exception 'Exception' with message 'Errors encountered: user API - valid email and password required to access user API' in /home4/dskangco/public_html/textfood/Ordrin/Ordrin.php:147
+Stack trace:
+#0 /home4/dskangco/public_html/textfood/Ordrin/User.php(45): Ordrin->_request(Array)
+#1 /home4/dskangco/public_html/textfood/search_engine.php(36): User->getAddress('shawn')
+#2 /home4/dskangco/public_html/textfood/search_engine.php(28): orderASAP('323', '400652', '5', '5')
+#3 {main}
+  thrown in /home4/dskangco/public_html/textfood/Ordrin/Ordrin.php on line 147
+[02-Oct-2011 07:26:58] PHP Fatal error:  Call to a member function validate() on a non-object in /home4/dskangco/public_html/textfood/Ordrin/Order.php on line 10
+[02-Oct-2011 07:33:25] PHP Fatal error:  Call to a member function _convertForAPI() on a non-object in /home4/dskangco/public_html/textfood/Ordrin/Order.php on line 49
+[02-Oct-2011 07:34:04] PHP Fatal error:  Call to a member function _convertForAPI() on a non-object in /home4/dskangco/public_html/textfood/Ordrin/Order.php on line 49
+[02-Oct-2011 08:03:35] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home4/dskangco/public_html/textfood/search_engine.php on line 38
+[02-Oct-2011 08:03:35] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home4/dskangco/public_html/textfood/search_engine.php:38) in /home4/dskangco/public_html/textfood/search_engine.php on line 4
+[02-Oct-2011 08:03:35] PHP Fatal error:  Call to a member function getAddress() on a non-object in /home4/dskangco/public_html/textfood/search_engine.php on line 38
+[02-Oct-2011 08:06:12] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home4/dskangco/public_html/textfood/search_engine.php on line 30
+[02-Oct-2011 08:06:12] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home4/dskangco/public_html/textfood/search_engine.php on line 38
+[02-Oct-2011 08:06:12] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home4/dskangco/public_html/textfood/search_engine.php:30) in /home4/dskangco/public_html/textfood/search_engine.php on line 4
+[02-Oct-2011 08:06:12] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home4/dskangco/public_html/textfood/search_engine.php:30) in /home4/dskangco/public_html/textfood/search_engine.php on line 4
+[02-Oct-2011 08:06:13] PHP Fatal error:  Call to a member function getAddress() on a non-object in /home4/dskangco/public_html/textfood/search_engine.php on line 38
+[02-Oct-2011 08:07:44] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home4/dskangco/public_html/textfood/search_engine.php on line 30
+[02-Oct-2011 08:07:44] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home4/dskangco/public_html/textfood/search_engine.php:30) in /home4/dskangco/public_html/textfood/search_engine.php on line 4
+[02-Oct-2011 08:07:44] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home4/dskangco/public_html/textfood/search_engine.php:30) in /home4/dskangco/public_html/textfood/search_engine.php on line 4
+[02-Oct-2011 08:07:45] PHP Fatal error:  Call to a member function getAddress() on a non-object in /home4/dskangco/public_html/textfood/search_engine.php on line 38
+[02-Oct-2011 08:08:41] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home4/dskangco/public_html/textfood/search_engine.php on line 30
+[02-Oct-2011 08:08:41] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home4/dskangco/public_html/textfood/search_engine.php:30) in /home4/dskangco/public_html/textfood/search_engine.php on line 4
+[02-Oct-2011 08:08:41] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home4/dskangco/public_html/textfood/search_engine.php:30) in /home4/dskangco/public_html/textfood/search_engine.php on line 4
+[02-Oct-2011 08:08:45] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home4/dskangco/public_html/textfood/search_engine.php on line 30
+[02-Oct-2011 08:08:45] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home4/dskangco/public_html/textfood/search_engine.php:30) in /home4/dskangco/public_html/textfood/search_engine.php on line 4
+[02-Oct-2011 08:08:45] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home4/dskangco/public_html/textfood/search_engine.php:30) in /home4/dskangco/public_html/textfood/search_engine.php on line 4
+[02-Oct-2011 08:10:02] PHP Fatal error:  Call to a member function getAddress() on a non-object in /home4/dskangco/public_html/textfood/search_engine.php on line 38
+[02-Oct-2011 08:13:05] PHP Fatal error:  Call to a member function getAddress() on a non-object in /home4/dskangco/public_html/textfood/search_engine.php on line 38
+[02-Oct-2011 08:14:54] PHP Fatal error:  Call to a member function getAddress() on a non-object in /home4/dskangco/public_html/textfood/search_engine.php on line 38
+[02-Oct-2011 08:15:07] PHP Fatal error:  Call to a member function getAddress() on a non-object in /home4/dskangco/public_html/textfood/search_engine.php on line 38
+[02-Oct-2011 08:17:42] PHP Warning:  Missing argument 11 for Order::submit(), called in /home4/dskangco/public_html/textfood/search_engine.php on line 42 and defined in /home4/dskangco/public_html/textfood/Ordrin/Order.php on line 9
+[02-Oct-2011 08:17:42] PHP Warning:  Missing argument 12 for Order::submit(), called in /home4/dskangco/public_html/textfood/search_engine.php on line 42 and defined in /home4/dskangco/public_html/textfood/Ordrin/Order.php on line 9
+[02-Oct-2011 08:17:42] PHP Warning:  Missing argument 13 for Order::submit(), called in /home4/dskangco/public_html/textfood/search_engine.php on line 42 and defined in /home4/dskangco/public_html/textfood/Ordrin/Order.php on line 9
+[02-Oct-2011 08:17:42] PHP Fatal error:  Call to a member function validate() on a non-object in /home4/dskangco/public_html/textfood/Ordrin/Order.php on line 10
+[02-Oct-2011 08:17:54] PHP Fatal error:  Call to a member function validate() on a non-object in /home4/dskangco/public_html/textfood/Ordrin/Order.php on line 10
+[02-Oct-2011 08:19:05] PHP Warning:  Missing argument 11 for Order::submit(), called in /home4/dskangco/public_html/textfood/search_engine.php on line 42 and defined in /home4/dskangco/public_html/textfood/Ordrin/Order.php on line 9
+[02-Oct-2011 08:19:05] PHP Warning:  Missing argument 12 for Order::submit(), called in /home4/dskangco/public_html/textfood/search_engine.php on line 42 and defined in /home4/dskangco/public_html/textfood/Ordrin/Order.php on line 9
+[02-Oct-2011 08:19:05] PHP Warning:  Missing argument 13 for Order::submit(), called in /home4/dskangco/public_html/textfood/search_engine.php on line 42 and defined in /home4/dskangco/public_html/textfood/Ordrin/Order.php on line 9
+[02-Oct-2011 08:19:05] PHP Fatal error:  Call to a member function validate() on a non-object in /home4/dskangco/public_html/textfood/Ordrin/Order.php on line 10
+[02-Oct-2011 08:27:24] PHP Fatal error:  Call to a member function validate() on a non-object in /home4/dskangco/public_html/textfood/Ordrin/Order.php on line 10

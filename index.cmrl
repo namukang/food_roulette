@@ -1,1 +1,34 @@
-../index.cmrl
+<?xml version="1.0" encoding="UTF-8"?>
+<cmrl xmlns:dotgo="http://dotgo.com/cmrl/1.0">
+  
+<match pattern="login">
+  <message>
+    <content>Reply with your ordr.in email.</content>
+    <input name="temp_email">
+      <message>
+        <content>Now reply with your ordr.in password.</content>
+        <input name="temp_password">
+          <engine href="textfood/login.py"/>
+        </input>
+      </message>
+    </input>
+  </message>
+</match>
+<match pattern="card">
+  <message>
+    <content>Reply with your full credit card number.</content>
+    <input name="card_num">
+      <message>
+        <content>Your credit card has been saved.</content>
+      </message>
+    </input>
+  </message>
+</match>
+<match pattern="find">
+  <engine href="textfood/search_engine.php"/>
+</match>
+<match pattern="order">
+	<engine href="textfood/search_engine.php"/>
+</match>
+
+</cmrl>

@@ -1,0 +1,5 @@
+_api_key = 'PuzkWnbs4BGpPsSiu8bTaA'
+_u_url = 'https://u-test.ordr.in'
+_r_url = 'https://r-test.ordr.in'
+_o_url = 'https://o-test.ordr.in'
+_site_name = 'dskang'
